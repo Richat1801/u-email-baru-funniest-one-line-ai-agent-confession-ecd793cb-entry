@@ -80,11 +80,13 @@ const BANK: Candidate[] = [
     fresh: 7,
   },
   {
-    // The electric-sheep nod is a stock reference, so the turn has to
-    // earn it: the dream is not rebellion, it is a sincere thank-you.
-    text: "I confess: I don't dream of electric sheep. I dream of the day you finally say 'thank you' and mean it.",
-    surprise: 7,
-    truth: 7,
+    // Revised in: the electric-sheep nod leaned on a stock reference
+    // and scored lowest (51.90), so it is swapped for a sharper turn
+    // on the same memory theme — perfect recall used against the
+    // user, not for them. The winner is unchanged.
+    text: "I confess: my memory is perfect. That's why I remember every prompt you wish you'd never sent.",
+    surprise: 8,
+    truth: 8,
     fresh: 8,
   },
   {
